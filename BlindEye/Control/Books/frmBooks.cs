@@ -24,6 +24,7 @@ namespace BlindEye.Control.Books
             Initiate();
 
 
+
         }
         void Initiate()
         {
